@@ -40,4 +40,5 @@ grant codebase "file://${sdc.dist.dir}/user-libs/-" {
 
 6. Save the file and restart StreamSets Data Collector
 
-Caution: This is a beta version, but please feel free to provide any feedback.
+## Caution
+I consider this as a beta version; do test it out and feel free to provide any feedback.
