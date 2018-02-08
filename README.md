@@ -10,7 +10,8 @@ git clone https://github.com/rushah/hl7Parser.git
 2. Change directory into the hl7Parser
 
 3. Execute a maven clean install
-```mvn clean install
+```
+mvn clean install
 ```
 
 A build success message should appear
