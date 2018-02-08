@@ -1,7 +1,7 @@
 # hl7Parser
 A simple hl7Parser processor that parses an hl7 message into an SDC Record.
 
-##To get started
+## To get started
 
 1. Download StreamSets Data Collector (SDC) or use an existing instance (SDC version 3.x and above)
 ```
