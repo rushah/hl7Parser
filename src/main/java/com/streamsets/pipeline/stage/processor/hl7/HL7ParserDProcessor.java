@@ -16,7 +16,7 @@
 package com.streamsets.pipeline.stage.processor.hl7;
 
 import com.streamsets.pipeline.api.*;
-import com.streamsets.pipeline.configurablestage.DProcessor;
+import com.streamsets.pipeline.api.base.configurablestage.DProcessor;
 
 @StageDef(
     version=1,

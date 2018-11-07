@@ -20,14 +20,14 @@
   <parent>
     <artifactId>streamsets-datacollector</artifactId>
     <groupId>com.streamsets</groupId>
-    <version>3.1.0.0-SNAPSHOT</version>
+    <version>3.6.0-SNAPSHOT</version>
   </parent>
   <groupId>com.streamsets</groupId>
   <artifactId>hl7Parser</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
-    <streamsets.version>3.1.0.0-SNAPSHOT</streamsets.version>
+    <streamsets.version>3.6.0-SNAPSHOT</streamsets.version>
     <slf4j.version>1.7.7</slf4j.version>
     <junit.version>4.12</junit.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -41,7 +41,7 @@
     <dependency>
       <groupId>com.streamsets</groupId>
       <artifactId>streamsets-datacollector-api</artifactId>
-      <version>3.1.0.0-SNAPSHOT</version>
+      <version>3.6.0-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -135,7 +135,7 @@
     <dependency>
       <groupId>com.streamsets</groupId>
       <artifactId>streamsets-datacollector-commonlib</artifactId>
-      <version>3.1.0.0-SNAPSHOT</version>
+      <version>3.6.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
 
