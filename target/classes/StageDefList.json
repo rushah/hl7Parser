@@ -1,0 +1,15 @@
+[
+ {
+	"name": "com_streamsets_pipeline_stage_processor_hl7_HL7ParserDProcessor",
+	"type": "PROCESSOR",
+	"label": "HL7 Parser",
+	"description": "Parses a string field which contains an HL7 message",
+	"version": 1,
+	"statsAggregatorStage": false,
+	"errorStage": false,
+	"beta": false,
+	"tags": [],
+	"onlineHelpRefUrl": "index.html#Processors/LogParser.html#task_jm1_b4w_fs",
+	"icon": "hl7.png"
+ }
+]

@@ -1,0 +1,6 @@
+[
+  "com.streamsets.pipeline.stage.processor.hl7.Groups",
+  "com.streamsets.pipeline.stage.processor.hl7.Errors",
+  "com.streamsets.pipeline.stage.processor.hl7.HL7ParserDProcessor",
+  "com.streamsets.pipeline.stage.processor.hl7.HL7Version"
+]
